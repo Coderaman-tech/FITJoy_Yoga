@@ -1,5 +1,5 @@
 # Refer this PPT for better Understanding 
-<a href="https://www.canva.com/design/DAFLxfU6DO8/vQFZxMIQ_JAPhpjYai5vZQ/edit">Click Here</a>
+<a href="https://www.canva.com/design/DAFLxfU6DO8/vQFZxMIQ_JAPhpjYai5vZQ/edit?utm_content=DAFLxfU6DO8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Click Here</a>
 
 # Problem Statement 
 Fitness is the soul of a happy life, it is actually the fuel of every persisting thing. But if we see our country’s health is already at stake and which is itself a threat for the future generations. This need to be rectified and adhering to the updated lifestyle we all have, there is an amazingly successful idea for the same. The one most common thing Indians have among them is a smartphone and a hectic schedule. Taking the same we have the most revolutionary  fitness application which supports gamification in every bit. Fitness is verified through each angle in our application as YOGA, WALKING, RUNNING, CYCLING, HOME WORKOUT and WEIGHT TRAINING. 
