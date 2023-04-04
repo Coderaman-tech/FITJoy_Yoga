@@ -6,6 +6,8 @@ Fitness is the soul of a happy life, it is actually the fuel of every persisting
 
 # GAMIFIED YOGA
 Yoga is added a unique feature of determining the exact postures and correction of the wrong postures through Machine Learning Algorithms. It depicts the accuracy and maintains the level on the basis of the points gained on the performance which are rectified regularly.
+https://user-images.githubusercontent.com/81643753/229889083-98f896b7-83e7-41a6-b238-c2c0ecea1ae4.mp4
+
 # Virtual Vishram 
 It is gamified and made more soothing by adding the true experience of the nature. We landed especially in Kedarnath to give the module a real effect with the help of Virtual Reality. The entire package of Yoga in our app is enough to channelise the true aspects of Yog and asanas.
  
